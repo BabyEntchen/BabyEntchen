@@ -1,4 +1,7 @@
-### Hi there 👋
+### 👋 Hi there
+### 🐥 I'm BabyEntchen
+### 🐍 I code python discord bots
+### 📫 How to reach me: Join my discord server (https://discord.gg/CADNryk)
 
 <!--
 **BabyEntchen/BabyEntchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

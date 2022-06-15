@@ -1,5 +1,5 @@
 ### 👋 Fckn retarded developer
-### 📫 Discord bots and stuff...
+### 📫 Discord bots and stuff idk...
 
 <!--
 **BabyEntchen/BabyEntchen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

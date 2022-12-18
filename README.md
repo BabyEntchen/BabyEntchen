@@ -40,7 +40,7 @@
 ### 💻 GitHub Profile Stats :
   <br/>
   <p align="center">
-    <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
+    <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
 <br/>
   &nbsp;
 
@@ -48,5 +48,5 @@
 
 ### :fire: Best stats on GitHub :3 :
   <p align="center">
-      <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=dracula&background=000000" height="192px"/></a>
+      <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
   </p>

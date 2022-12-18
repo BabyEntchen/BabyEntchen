@@ -40,7 +40,7 @@
 ### 💻 GitHub Profile Stats :
   <br/>
   <p align="center">
-    <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=dracula" height="192px"/></a>
 <br/>
   &nbsp;
 

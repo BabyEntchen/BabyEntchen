@@ -48,5 +48,5 @@
 
 ### :fire: Best stats on GitHub :3 :
   <p align="center">
-      <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=dark&background=000000" height="192px"/></a>
+      <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=dracula&background=000000" height="192px"/></a>
   </p>

@@ -20,6 +20,10 @@
 <p align="center"><b>📫 Discord bots and stuff idk...<b/><p/>
 
 ---
+### 🛒 Order cool stuff!
+<p align="center"><img src="https://discord.c99.nl/widget/theme-4/790879003367571456.png"><p/>
+
+---
 
 ### :hammer_and_wrench: Very important lifeskills :
 <div align="center">

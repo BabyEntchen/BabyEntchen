@@ -51,7 +51,7 @@
 
 ---
 
-### :fire: Ofc Best stats on GitHub :3 :
+### :fire: Ofc best stats on github :3 :
   <p align="center">
       <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
   </p>

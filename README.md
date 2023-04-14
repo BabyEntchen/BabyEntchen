@@ -17,7 +17,7 @@
 
 ### :woman_technologist: About the coolest guy on github :
 <p align="center"><b>👋 Fckn retarded developer<b/><p/>
-<p align="center"><b>📫 Discord bots and stuff idk...<b/><p/>
+<p align="center"><b>📫 Discord bots and... stuff ig...<b/><p/>
 
 ---
 ### 🛒 Order cool stuff!

@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About the coolest guy on github :
+### :woman_technologist: About the coolest guy on github:
 <p align="center"><b>👋 Fckn retarded developer<b/><p/>
 <p align="center"><b>📫 Discord bots and... stuff ig...<b/><p/>
 
@@ -25,7 +25,7 @@
 
 ---
 
-### :hammer_and_wrench: Very important lifeskills :
+### :hammer_and_wrench: Very important lifeskills:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -42,7 +42,7 @@
 
 ---
 
-### 💻 Cool stats :
+### 💻 Cool stats:
   <br/>
   <p align="center">
     <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
@@ -51,7 +51,7 @@
 
 ---
 
-### :fire: Ofc best stats on github :3 :
+### :fire: Ofc best stats on github :3:
   <p align="center">
       <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
   </p>

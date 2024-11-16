@@ -15,12 +15,7 @@
 
 ---
 
-### :woman_technologist: About the coolest guy on github:
-<p align="center"><b>👋 Fckn retarded developer<b/><p/>
-<p align="center"><b>📫 Discord bots and... stuff ig<b/><p/>
-
----
-### 🛒 Order cool stuff!
+### 🛒
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/790879003367571456.png"><p/>
 
 ---
@@ -43,16 +38,14 @@
 
 ---
 
-### 💻 Cool stats:
+### 💻
   <br/>
   <p align="center">
     <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
-<br/>
-  &nbsp;
-
----
-
-### :fire: Ofc best stats on github :3
-  <p align="center">
+  <br/>
+  <p align="center">  
       <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
   </p>
+  &nbsp;
+---
+

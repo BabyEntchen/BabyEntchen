@@ -15,12 +15,10 @@
 
 ---
 
-### 🛒
 <p align="center"><img src="https://discord.c99.nl/widget/theme-4/790879003367571456.png"><p/>
 
 ---
 
-### :hammer_and_wrench: Very important lifeskills:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -38,7 +36,6 @@
 
 ---
 
-### 💻
   <br/>
   <p align="center">
     <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BabyEntchen&show_icons=true&count_private=true&theme=ayu-mirage" height="192px"/></a>
@@ -47,5 +44,4 @@
       <a href="https://github.com/BabyEntchen"><img alt="BabyEntchen's Github Stats" src="http://github-readme-streak-stats.herokuapp.com?user=BabyEntchen&theme=ayu-mirage" height="192px"/></a>
   </p>
   &nbsp;
----
 
